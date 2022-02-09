@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/drawable-night/drawable.xml" value="0.16018518518518518" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/drawable-v24/button_bg.xml" value="0.1" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/drawable-v24/ic_baseline_east_24.xml" value="0.1398148148148148" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.17395833333333333" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.17395833333333333" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.17395833333333333" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.17395833333333333" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.1398148148148148" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.17395833333333333" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.17395833333333333" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/drawable/ic_baseline_stocks_24.xml" value="0.17395833333333333" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17395833333333333" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/font/nunito.xml" value="0.1" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/font/nunito_extrabold.xml" value="0.1" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/activity_aboutscreen.xml" value="0.13858695652173914" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/activity_addingnewitem.xml" value="0.3333333333333333" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/activity_changingtheme.xml" value="0.22" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/activity_editprofile.xml" value="0.22" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/activity_logoutscreen.xml" value="0.1578125" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/activity_logoutsplashscreen.xml" value="0.3333333333333333" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/activity_main.xml" value="0.14375" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/activity_profilepage.xml" value="0.22" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/activity_register.xml" value="0.14666666666666667" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/activity_resetpassword.xml" value="0.4466666666666667" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/activity_termsandconditions.xml" value="0.16666666666666666" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/activity_welcomesplash.xml" value="0.16666666666666666" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/fragment_homefragment.xml" value="0.14666666666666667" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/fragment_profilefragment.xml" value="0.22" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/fragment_second.xml" value="0.10326086956521739" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/fragment_stocksfragment.xml" value="0.10520833333333333" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/layout/reset_pop.xml" value="0.22" />
+        <entry key="..\:/COLLEGE/Sem 4/Projects/Groc for me/Grocforme3/app/src/main/res/menu/bottomnavbar.xml" value="0.13333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
