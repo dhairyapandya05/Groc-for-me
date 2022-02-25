@@ -50,7 +50,7 @@ public class register extends AppCompatActivity {
                 finish();
             }
         });
-        //register button code
+  
         Signupbutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -60,7 +60,7 @@ public class register extends AppCompatActivity {
                 String password = Password.getText().toString();
                 String confirmpasword = Confirmpassword.getText().toString();
 
-                //if user is already logged in then directly to main activity
+              
                 if (FirebaseAuth.getInstance().getCurrentUser() != null) {
                     startActivity(new Intent(getApplicationContext(), MainActivity.class));
                     finish();
@@ -91,13 +91,13 @@ public class register extends AppCompatActivity {
                     Confirmpassword.setError("Password do not match");
                     return;
                 }
-                // data is validated
+               
                 Toast.makeText(register.this, "Data Validated", Toast.LENGTH_SHORT).show();
 
                 fAuth.createUserWithEmailAndPassword(email, password).addOnSuccessListener(new OnSuccessListener<AuthResult>() {
                     @Override
                     public void onSuccess(AuthResult authResult) {
-                        //Storing the data in the firestore
+           
                         userID=fAuth.getCurrentUser().getUid();
                         DocumentReference documentReference=fstore.collection("users").document(userID);
                         Map<String,Object> user = new HashMap<>();
@@ -112,7 +112,7 @@ public class register extends AppCompatActivity {
                                 Log.d(TAG,"onSucess: user Profile is created for "+userID);
                             }
                         });
-                        //sending the user in the main activity
+             
                         startActivity(new Intent(getApplicationContext(), MainActivity.class));
                         finish();
                     }
