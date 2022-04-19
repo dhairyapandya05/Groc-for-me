@@ -105,7 +105,7 @@ StorageReference storageReference;
                         });
 
 
-                        Toast.makeText(editprofile.this, "Email changed", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(editprofile.this, "Profile changed", Toast.LENGTH_SHORT).show();
                     }
                 }).addOnFailureListener(new OnFailureListener() {
                     @Override

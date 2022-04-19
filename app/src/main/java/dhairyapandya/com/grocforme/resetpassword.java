@@ -93,7 +93,7 @@ public class resetpassword extends AppCompatActivity {
 //                }
                 if(!(reenterpassword.getText().toString().trim().equals(password.getText().toString().trim().isEmpty())))
                 {
-                    Toast.makeText(resetpassword.this,"Password do not match",Toast.LENGTH_SHORT).show();
+//                    Toast.makeText(resetpassword.this,"Password do not match",Toast.LENGTH_SHORT).show();
                 }
                 user.updatePassword(password.getText().toString()).addOnSuccessListener(new OnSuccessListener<Void>() {
                     @Override

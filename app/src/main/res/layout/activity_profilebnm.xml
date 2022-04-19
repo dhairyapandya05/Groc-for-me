@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/profilebackground"
+    tools:context=".profilebnm">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="start"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="25dp"
+            android:orientation="horizontal"
+            android:paddingTop="15dp">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imageView"
+                android:layout_width="128dp"
+                android:layout_height="128dp"
+                android:src="@drawable/users"
+                app:civ_border_color="@color/white"
+                app:civ_border_width="3dp" />
+
+            <TextView
+                android:id="@+id/namedisplay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="17dp"
+                android:layout_marginTop="25dp"
+                android:text="Siddhant"
+                android:textSize="28dp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/editprofile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/white"
+            android:drawableLeft="@drawable/ic_baseline_person_24"
+            android:drawableRight="@drawable/ic_baseline_navigate_next_24"
+            android:drawablePadding="20dp"
+            android:gravity="start|center_vertical"
+            android:text="Profile"
+            android:textAllCaps="false"
+            android:textColor="#050505"
+            android:textSize="20sp" />
+
+        <!--        <Button-->
+        <!--            android:id="@+id/resetpassword"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:backgroundTint="@color/white"-->
+        <!--            android:drawableLeft="@drawable/ic_baseline_lock_24"-->
+        <!--            android:drawableRight="@drawable/ic_baseline_navigate_next_24"-->
+        <!--            android:drawablePadding="20dp"-->
+        <!--            android:fontFamily="@font/nunito"-->
+        <!--            android:gravity="start|center_vertical"-->
+        <!--            android:text="Reset Password"-->
+        <!--            android:textAllCaps="false"-->
+        <!--            android:textColor="#050505"-->
+        <!--            android:textSize="20sp" />-->
+
+
+        <Button
+            android:id="@+id/theme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/white"
+
+            android:drawableLeft="@drawable/ic_baseline_color_lens_24"
+            android:drawableRight="@drawable/ic_baseline_navigate_next_24"
+            android:drawablePadding="20dp"
+            android:gravity="start|center_vertical"
+            android:text="Theme"
+            android:textAllCaps="false"
+            android:textColor="#050505"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/about"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/white"
+            android:drawableLeft="@drawable/ic_baseline_info_24"
+            android:drawableRight="@drawable/ic_baseline_navigate_next_24"
+            android:drawablePadding="20dp"
+            android:gravity="start|center_vertical"
+            android:text="About"
+            android:textAllCaps="false"
+
+            android:textColor="#050505"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/termsandconditions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/white"
+            android:drawableLeft="@drawable/ic_baseline_article_24"
+            android:drawableRight="@drawable/ic_baseline_navigate_next_24"
+            android:drawablePadding="20dp"
+            android:gravity="start|center_vertical"
+            android:text="Terms and Conditions"
+
+            android:textAllCaps="false"
+            android:textColor="#050505"
+            android:textSize="20sp" />
+
+        <!--        <Button-->
+        <!--            android:id="@+id/logout"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:backgroundTint="@color/white"-->
+        <!--            android:drawableLeft="@drawable/ic_baseline_logout_24"-->
+        <!--            android:drawablePadding="20dp"-->
+        <!--            android:fontFamily="@font/nunito"-->
+        <!--            android:gravity="start|center_vertical"-->
+        <!--            android:text="Logout"-->
+        <!--            android:textAllCaps="false"-->
+        <!--            android:textColor="#050505"-->
+        <!--            android:textSize="20sp" />-->
+
+        <!--        <LinearLayout-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="48dp"-->
+        <!--            android:gravity="center_vertical"-->
+        <!--            android:orientation="horizontal"-->
+        <!--            android:weightSum="30">-->
+
+        <!--            <TextView-->
+        <!--                android:id="@+id/verifyemail"-->
+        <!--                android:layout_width="wrap_content"-->
+        <!--                android:layout_height="match_parent"-->
+        <!--                android:layout_weight="29"-->
+        <!--                android:gravity="center_vertical"-->
+        <!--                android:text="Verify Email address"-->
+        <!--                android:textSize="20sp"-->
+        <!--                android:textColor="#323232"-->
+        <!--                android:visibility="gone" />-->
+
+        <!--            <Button-->
+        <!--                android:id="@+id/verify"-->
+        <!--                android:layout_width="wrap_content"-->
+        <!--                android:layout_height="match_parent"-->
+        <!--                android:layout_weight="1"-->
+        <!--                android:text="Verify"-->
+        <!--                android:textAllCaps="false"-->
+        <!--                android:textSize="20sp"-->
+
+        <!--                android:visibility="gone" />-->
+        <!--        </LinearLayout>-->
+
+
+    </LinearLayout>
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bottomnav"
+        app:itemBackground="@color/white"
+        app:itemTextColor="@drawable/selector"
+        app:itemIconTint="@drawable/selector"
+        app:menu="@menu/bottomnavbar"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

@@ -48,21 +48,24 @@ As long as the website and the information and services on the website are provi
     <string name="about">This is a project created by ‘Groc for me ’ Team .We have researched on the topics and developed an app that can help people and thus contribute to the society. This app aims to deliver the groceries to the customers to their doorstep. Now customer no need to go out for collecting the groceries. They can simply order them and get it within time.\n\n
 <b>Team:</b> Groc for me\n\n
 <b>Language: </b>  Java\n\n
-<b>Team Members: </b>\n
+<b>Creator: </b>\n
 \t\t\t\t\t\t20CE071 Dhairya Pandya\n
 \t\t\t\t\t\t20ce071@charusat.edu.in\n\n
-\t\t\t\t\t\t20CE072 Nirava Parikh\n
+
+        \t\t\t\t\t\t20CE072 Nirva Parikh\n
 \t\t\t\t\t\t20ce072@charusat.edu.in\n\n
-\t\t\t\t\t\t20CE082 Harsh Patel\n
-\t\t\t\t\t\t20ce082@charusat.edu.in\n\n
-\t\t\t\t\t\t20CE088 Keya Patel\n
+
+ \t\t\t\t\t\t20CE088 Keya Patel\n
 \t\t\t\t\t\t20ce088@charusat.edu.in\n\n
-\t\t\t\t\t\t20CE089 Krish Patel\n
-\t\t\t\t\t\t20ce089@charusat.edu.in\n\n\n
+
+        \t\t\t\t\t\t20CE082 Harsh Patel\n
+\t\t\t\t\t\t20ce082@charusat.edu.in\n\n
+        \t\t\t\t\t\t20CE089 Krish Patel\n
+\t\t\t\t\t\t20ce089@charusat.edu.in\n\n
 
 <b>Approval Faculty: </b>\n
-        \t\t\t\t\t\tKruti Dhyani\n
-\t\t\t\t\t\tkrutidhyani.ce@charusat.ac.in\n\n
+        \t\t\t\t\t\tBhupendra Patel\n
+\t\t\t\t\t\tbhupendrapatel.ce@charusat.org\n\n
 
 <b>Android Development: </b> Android Studio\n
         <b>App Version: </b> <i>03.04.00</i>\n

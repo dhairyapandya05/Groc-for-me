@@ -3,16 +3,23 @@ package dhairyapandya.com.grocforme;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.firebase.ui.database.FirebaseRecyclerOptions;
+import com.google.firebase.database.FirebaseDatabase;
 
 /**
  * A simple {@link Fragment} subclass.
  * Use the {@link completed#newInstance} factory method to
  * create an instance of this fragment.
  */
+
+
 public class completed extends Fragment {
 
     // TODO: Rename parameter arguments, choose names that match
@@ -58,7 +65,19 @@ public class completed extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+//        RecyclerView.Adapter adapter;
+        View view=inflater.inflate(R.layout.fragment_completed, container, false);
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_completed, container, false);
+//        RecyclerView Rview;
+//        Rview=view.findViewById(R.id.regview);
+//        Rview.setLayoutManager(new LinearLayoutManager(getContext()));
+//        FirebaseRecyclerOptions<model> options =
+//                new FirebaseRecyclerOptions.Builder<model>()
+//                        .setQuery(FirebaseDatabase.getInstance().getReference().child("completed"), model.class)
+//                        .build();
+
+//        adapter=new myadaptercompleted(options);
+//        Rview.setAdapter(adapter);
+        return view;
     }
 }
