@@ -42,6 +42,8 @@ public class myadapter extends FirebaseRecyclerAdapter<model,myadapter.myviewhol
         holder.Grade.setText(model.getGrade());
         holder.Wholeseller.setText(model.getWholeseller());
 
+
+        //code to edit any field
         holder.edit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -51,7 +53,7 @@ public class myadapter extends FirebaseRecyclerAdapter<model,myadapter.myviewhol
                         .create();
 
                 View myview=dialogPlus.getHolderView();
-                final EditText purl=myview.findViewById(R.id.uimgurl);
+                final Button purl=myview.findViewById(R.id.uimgurl);
                 final EditText Name=myview.findViewById(R.id.uname);
                 final EditText Price=myview.findViewById(R.id.uPrice);
                 final EditText Quantity=myview.findViewById(R.id.uquantity);
@@ -100,7 +102,7 @@ public class myadapter extends FirebaseRecyclerAdapter<model,myadapter.myviewhol
             }
         });
 //
-//
+//code to delete any field
         holder.delete.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -128,6 +130,9 @@ public class myadapter extends FirebaseRecyclerAdapter<model,myadapter.myviewhol
         });
 
     }
+
+
+
 
     @NonNull
     @Override

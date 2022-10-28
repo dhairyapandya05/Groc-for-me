@@ -3,6 +3,7 @@ package dhairyapandya.com.grocforme;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.WindowManager;
 import android.widget.TextView;
 import android.widget.Toolbar;
 
@@ -12,6 +13,13 @@ Toolbar mtoolbarr;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_aboutscreen);
+
+        getSupportActionBar().hide();
+        getSupportActionBar().hide();
+        getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
+//        getSupportActionBar().show();
+
+
 //        toolbarr=findViewById(R.id.toolbar);
 //        setSupportActionBar(toolbar);
         getSupportActionBar().setTitle("About");

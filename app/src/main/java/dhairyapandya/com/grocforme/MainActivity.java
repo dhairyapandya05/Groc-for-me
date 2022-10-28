@@ -24,10 +24,10 @@ import com.google.firebase.auth.FirebaseAuth;
 import dhairyapandya.com.grocforme.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
-//    ActivityMainBinding binding;
+    //    ActivityMainBinding binding;
 //    TextView verification;
     Button Logout;
-//    Button verifibut, resetpassword;
+    //    Button verifibut, resetpassword;
     FirebaseAuth auth;
     BottomNavigationView BNV;
     TabLayout tabLayout;
@@ -45,16 +45,16 @@ public class MainActivity extends AppCompatActivity {
 //        auth = FirebaseAuth.getInstance();
 
         //Triallllllllllllllllllllllllllll Codeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-        BNV=findViewById(R.id.bottomnav);
+        BNV = findViewById(R.id.bottomnav);
 
         BNV.setSelectedItemId(R.id.homebtn);
         BNV.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-                switch (item.getItemId()){
+                switch (item.getItemId()) {
                     case R.id.stocksbtn:
-                        startActivity(new Intent(getApplicationContext(),stocksbnm.class));
-                        overridePendingTransition(0,0);
+                        startActivity(new Intent(getApplicationContext(), stocksbnm.class));
+                        overridePendingTransition(0, 0);
 //                                BNV.setSelectedItemId(R.id.stocksbtn);
 
                         return true;
@@ -65,12 +65,11 @@ public class MainActivity extends AppCompatActivity {
                         return true;
 
                     case R.id.profilebtn:
-                        startActivity(new Intent(getApplicationContext(),profilebnm.class));
-                        overridePendingTransition(0,0);
+                        startActivity(new Intent(getApplicationContext(), profilebnm.class));
+                        overridePendingTransition(0, 0);
 //                        BNV.setSelectedItemId(R.id.profilebtn);
 
                         return true;
-
 
 
                 }
@@ -156,16 +155,15 @@ public class MainActivity extends AppCompatActivity {
         viewPager2.setAdapter(adapter);
 
 
-
         new TabLayoutMediator(tabLayout, viewPager2,
                 new TabLayoutMediator.TabConfigurationStrategy() {
                     @Override
                     public void onConfigureTab(@NonNull TabLayout.Tab tab, int position) {
 //                        String tabTitles[] = new String[]{"Friends", "Suggested Friends"};
 //                        tab.setText("Tab " + (position + 1));
-                        if(position==0)
-                        tab.setText("Completed");
-                        if(position==1)
+                        if (position == 0)
+                            tab.setText("Completed");
+                        if (position == 1)
                             tab.setText("Pending");
                     }
                 }).attach();

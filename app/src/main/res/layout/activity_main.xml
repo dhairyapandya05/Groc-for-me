@@ -20,22 +20,22 @@
         tools:layout_editor_absoluteX="182dp"
         tools:layout_editor_absoluteY="373dp"></com.google.android.material.tabs.TabLayout>
 
-    <androidx.viewpager2.widget.ViewPager2
-        android:id="@+id/view_pager"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        tools:layout_editor_absoluteX="145dp"
-        tools:layout_editor_absoluteY="500dp" />
-    <com.google.android.material.bottomnavigation.BottomNavigationView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/bottomnav"
-        app:itemBackground="@color/white"
-        app:itemTextColor="@drawable/selector"
-        app:itemIconTint="@drawable/selector"
-        app:menu="@menu/bottomnavbar"
-        android:layout_alignBottom="@id/view_pager"
-        />
+  <androidx.viewpager2.widget.ViewPager2
+      android:id="@+id/view_pager"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      tools:layout_editor_absoluteX="145dp"
+      tools:layout_editor_absoluteY="500dp" />
+
+  <com.google.android.material.bottomnavigation.BottomNavigationView
+      android:id="@+id/bottomnav"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_alignBottom="@id/view_pager"
+      app:itemBackground="@color/white"
+      app:itemIconTint="@drawable/selector"
+      app:itemTextColor="@drawable/selector"
+      app:menu="@menu/bottomnavbar" />
 
 
 

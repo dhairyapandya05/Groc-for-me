@@ -9,6 +9,7 @@ import android.widget.SearchView;
 import android.widget.SearchView.OnQueryTextListener;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -25,7 +26,7 @@ public class stocksbnm extends AppCompatActivity {
     RecyclerView recview;
     myadapter adapter;
     FloatingActionButton fb;
-
+//SwipeRefreshLayout Refresh;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,6 +34,7 @@ public class stocksbnm extends AppCompatActivity {
         setContentView(R.layout.activity_stocksbnm);
 //Floating action button
         fb=findViewById(R.id.fadd);
+//        Refresh=findViewById(R.id.refresh);
         fb.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
