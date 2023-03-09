@@ -1,15 +1,6 @@
 # Groc-for-me
-![Screenshot_20220523-111846_Groc for me](https://user-images.githubusercontent.com/75428863/169760892-1abcc578-f5a7-49c8-ac89-ffbd8849c0db.jpg)
-![Screenshot_20220523-111855_Groc for me](https://user-images.githubusercontent.com/75428863/169760906-a04fd808-d9db-4901-800d-f3f74b3757b0.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75428863/169760892-1abcc578-f5a7-49c8-ac89-ffbd8849c0db.jpg" style="max-width:500px; height:auto;">
+</p>
 
-![Screenshot_20220523-111602_Groc for me](https://user-images.githubusercontent.com/75428863/169760698-25eeca3c-b679-4f83-8f7d-21dc1efaaf37.jpg)
-![Screenshot_20220523-111609_Groc for me](https://user-images.githubusercontent.com/75428863/169760703-cba1a1be-c2b2-4cbd-bbbb-a85dbc4aea57.jpg)
-![Screenshot_20220523-111621_Groc for me](https://user-images.githubusercontent.com/75428863/169760709-fb62323e-b0f6-469a-8a8e-b24cf4575bd8.jpg)
-![Screenshot_20220523-111710_Groc for me](https://user-images.githubusercontent.com/75428863/169760716-3f513558-af7a-48f8-8903-ad2ca4572245.jpg)
-![Screenshot_20220523-111744_Groc for me](https://user-images.githubusercontent.com/75428863/169760732-115a81b5-1eb0-4fdf-a780-b8da6fb1d6dd.jpg)
-![Screenshot_20220523-111753_Groc for me](https://user-images.githubusercontent.com/75428863/169760736-7ba900d4-43d9-452c-ae23-a749e8f8aed2.jpg)
-![Screenshot_20220523-111804_Groc for me](https://user-images.githubusercontent.com/75428863/169760755-54a93258-84bc-4b4e-9a9c-c2fe5821a8b1.jpg)
-![Screenshot_20220523-111814_Groc for me](https://user-images.githubusercontent.com/75428863/169760856-94545539-4b35-4246-b597-17fb6e1d806d.jpg)
-![Screenshot_20220523-111825_Groc for me](https://user-images.githubusercontent.com/75428863/169760857-e8f867d4-9949-4f76-bb81-59a769ba934b.jpg)
-![Screenshot_20220523-111833_Groc for me](https://user-images.githubusercontent.com/75428863/169760864-10d96223-260e-4375-ac2f-2b26f4d8f880.jpg)
-![Screenshot_20220523-111840_Groc for me](https://user-images.githubusercontent.com/75428863/169760872-0da9c2cf-ab8d-4a60-8301-95ed51ea65cf.jpg)
+
