@@ -16,9 +16,9 @@ Introducing Groc for Me, the ultimate solution for all your grocery needs. This 
 
 ## Screenshots
 
-<a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://github.com/dhairyapandya05/Groc-for-me/assets/75428863/38b2b994-891b-42a6-988a-875b5e770f69" alt="dhairyapandya"  width="500" /></a>
+<a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://user-images.githubusercontent.com/75428863/169760892-1abcc578-f5a7-49c8-ac89-ffbd8849c0db.jpg" alt="dhairyapandya"  width="250" /></a>
 
-<a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://user-images.githubusercontent.com/75428863/169760892-1abcc578-f5a7-49c8-ac89-ffbd8849c0db.jpg" alt="dhairyapandya"  width="500" /></a>
+<a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://github.com/dhairyapandya05/Groc-for-me/assets/75428863/38b2b994-891b-42a6-988a-875b5e770f69" alt="dhairyapandya"  width="250" /></a>
 
 <a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://user-images.githubusercontent.com/75428863/169760703-cba1a1be-c2b2-4cbd-bbbb-a85dbc4aea57.jpg" alt="dhairyapandya"  width="500" /></a>
 
