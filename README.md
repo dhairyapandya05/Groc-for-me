@@ -3,7 +3,6 @@
 
 
 
-
 ## Description
 
 Introducing Groc for Me, the ultimate solution for all your grocery needs. This innovative e-commerce application makes grocery shopping a breeze, allowing you to purchase all your favorite products from the comfort of your own home. With a wide selection of high-quality products, from fresh produce to pantry staples, you're sure to find what you're looking for. Our user-friendly interface and easy checkout process ensure a seamless shopping experience. Whether you're in a rush or have some time to browse, Groc for Me is the perfect solution for all your grocery needs. Say goodbye to long lines and crowded stores, and start shopping with Groc for Me today!
@@ -17,7 +16,7 @@ Introducing Groc for Me, the ultimate solution for all your grocery needs. This 
 
 ## Screenshots
 
-<a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://drive.google.com/file/d/1z8Y6SqjTOqaQR_PKLwa1Jsbw-q0geFLF/view?usp=sharing" alt="dhairyapandya"  width="500" /></a>
+<a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://github.com/dhairyapandya05/Groc-for-me/assets/75428863/38b2b994-891b-42a6-988a-875b5e770f69" alt="dhairyapandya"  width="500" /></a>
 
 <a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://user-images.githubusercontent.com/75428863/169760892-1abcc578-f5a7-49c8-ac89-ffbd8849c0db.jpg" alt="dhairyapandya"  width="500" /></a>
 
