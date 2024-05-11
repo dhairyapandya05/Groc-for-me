@@ -32,7 +32,7 @@ Introducing Groc for Me, the ultimate solution for all your grocery needs. This 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1" target="_blank">
-    <img src="https://user-images.githubusercontent.com/75428863/169760709-fb62323e-b0f6-469a-8a8e-b24cf4575bd8.jpg" alt="Image Description" width="250" style="vertical-align: top;"/>
+    <img src="https://user-images.githubusercontent.com/75428863/169760709-fb62323e-b0f6-469a-8a8e-b24cf4575bd8.jpg" alt="Image Description" width="250" />
   </a>
 </p>
 
