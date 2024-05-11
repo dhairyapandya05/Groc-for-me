@@ -16,18 +16,44 @@ Introducing Groc for Me, the ultimate solution for all your grocery needs. This 
 
 ## Screenshots
 
-<a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://user-images.githubusercontent.com/75428863/169760892-1abcc578-f5a7-49c8-ac89-ffbd8849c0db.jpg" alt="dhairyapandya"  width="250" /></a>
+<p align="center">
+  <a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1" target="_blank">
+    <img src="https://user-images.githubusercontent.com/75428863/169760892-1abcc578-f5a7-49c8-ac89-ffbd8849c0db.jpg" alt="Image Description" width="250"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1" target="_blank">
+    <img src="https://github.com/dhairyapandya05/Groc-for-me/assets/75428863/38b2b994-891b-42a6-988a-875b5e770f69" alt="Image Description" width="250"/>
+  </a>
+</p>
 
-<a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://github.com/dhairyapandya05/Groc-for-me/assets/75428863/38b2b994-891b-42a6-988a-875b5e770f69" alt="dhairyapandya"  width="250" /></a>
+<p align="center">
+  <a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1" target="_blank">
+    <img src="https://user-images.githubusercontent.com/75428863/169760703-cba1a1be-c2b2-4cbd-bbbb-a85dbc4aea57.jpg" alt="Image Description" width="250" style="vertical-align: top;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1" target="_blank">
+    <img src="https://user-images.githubusercontent.com/75428863/169760709-fb62323e-b0f6-469a-8a8e-b24cf4575bd8.jpg" alt="Image Description" width="250" style="vertical-align: top;"/>
+  </a>
+</p>
 
-<a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://user-images.githubusercontent.com/75428863/169760703-cba1a1be-c2b2-4cbd-bbbb-a85dbc4aea57.jpg" alt="dhairyapandya"  width="500" /></a>
 
-<a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://user-images.githubusercontent.com/75428863/169760709-fb62323e-b0f6-469a-8a8e-b24cf4575bd8.jpg" alt="dhairyapandya"  width="500" /></a>
+<p align="center">
+  <a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1" target="_blank">
+    <img src="https://user-images.githubusercontent.com/75428863/169760732-115a81b5-1eb0-4fdf-a780-b8da6fb1d6dd.jpg" alt="Image Description" width="250"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1" target="_blank">
+    <img src="https://user-images.githubusercontent.com/75428863/169760736-7ba900d4-43d9-452c-ae23-a749e8f8aed2.jpg" alt="Image Description" width="250"/>
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1" target="_blank">
+    <img src="https://user-images.githubusercontent.com/75428863/169760857-e8f867d4-9949-4f76-bb81-59a769ba934b.jpg" alt="Image Description" width="250"/>
+  </a>
+</p>
 
-<a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://user-images.githubusercontent.com/75428863/169760732-115a81b5-1eb0-4fdf-a780-b8da6fb1d6dd.jpg" alt="dhairyapandya"  width="500" /></a>
 
-<a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://user-images.githubusercontent.com/75428863/169760736-7ba900d4-43d9-452c-ae23-a749e8f8aed2.jpg" alt="dhairyapandya"  width="500" /></a>
 
-<a href="https://www.figma.com/design/68zTqo0jZbzWyG8h09xABJ/Groc-for-me?node-id=0%3A1&t=q5bNB1fDaTNmDqQ6-1 " target="blank"><img align="center" src="https://user-images.githubusercontent.com/75428863/169760857-e8f867d4-9949-4f76-bb81-59a769ba934b.jpg" alt="dhairyapandya"  width="500" /></a>
+
+
 
 
