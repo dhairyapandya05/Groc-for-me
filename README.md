@@ -51,6 +51,21 @@ Introducing Groc for Me, the ultimate solution for all your grocery needs. This 
   </a>
 </p>
 
+## Discover Groc for Me: Your Ultimate Grocery Shopping Solution
+
+Explore the innovative e-commerce mobile application, Groc for Me, designed to simplify your grocery shopping experience. With a vast selection of high-quality products and a seamless checkout process, shopping from home has never been easier.
+
+To view the design and features, check out our Figma prototype here: [[Link]](https://shorturl.at/acM6Q).
+
+---
+
+## Explore the Groc for Me Architecture
+
+Get an in-depth look at the structure behind Groc for Me with our detailed class diagram. This diagram provides a clear view of the application's architecture, showcasing how each component integrates to deliver a seamless shopping experience.
+
+![Class Diagram of Groc for me](https://github.com/user-attachments/assets/7b2b33cd-4d68-47c0-bead-47f2a8cfd0f1)
+
+
 
 
 
